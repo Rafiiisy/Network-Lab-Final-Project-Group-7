@@ -5,7 +5,7 @@ This is a multi client, multi device, and multi server group chat application, w
 
 ## Instructions:
 To run this application we should run it on the terminal/shell using the format: python <server.py OR client.py> <IP address> <port number>
- 
+
 In order to run our program correctly, we have to run it in this order:
 1. server.py
 2. client.py
