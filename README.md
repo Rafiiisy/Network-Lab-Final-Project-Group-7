@@ -11,5 +11,3 @@ In order to run the app correctly, we have to run it in this order:
 
 Please enjoy the application!
 Thank you
-
-hello
